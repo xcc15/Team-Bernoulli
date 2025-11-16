@@ -52,7 +52,7 @@ The CVI is a weighted average of six key risk dimensions. Each factor is normali
 
 **Data Sources**
 
-The analysis is built on datasets provided by **Project CCHAIN**, which were extracted from a central SQLite database (stand_datasets.db).
+The analysis is built on datasets provided by [Project CCHAIN](https://www.kaggle.com/datasets/thinkdatasci/project-cchain), which were extracted from a central SQLite database (stand_datasets.db).
 
 Key data tables included:
 
@@ -87,3 +87,4 @@ This Iloilo pilot serves as a powerful blueprint. The next steps are to:
 - Jeb Jovero
 
 - Dominic Lumibao
+
