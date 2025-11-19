@@ -5,15 +5,13 @@ View the ArcGIS project here:
 [Open the ArcGIS Story Map](https://arcg.is/0y8XrL)
 
 Click the link above to open the story map in your browser.
-
-
 **Climate Vulnerability Index for Iloilo City (Barangay Level)**
 
 **A data-driven pipeline to calculate a granular Climate Vulnerability Index (CVI) for every barangay in Iloilo City, identifying communities most vulnerable to climate and socioeconomic pressures.**
 
 **Project by: Team Bernoulli** **For: PJDSC 2025**
 
-## The Problem: A Complex Picture of Risk
+**The Problem: A Complex Picture of Risk**
 
 Iloilo City faces multiple, overlapping risks. These dangers are not spread evenly across the city:
 
@@ -37,7 +35,7 @@ This index clusters every barangay into one of three categories:
 
 The result is a clear, data-driven prioritization map that answers the question: "Which communities are most vulnerable and need our help first?"
 
-## The Six Pillars of the Climate Vulnerability Index
+**The Six Pillars of the Climate Vulnerability Index**
 
 The CVI is a weighted average of six key risk dimensions. Each factor is normalized into a "risk contribution" score, where a higher value means higher risk.
 
@@ -50,9 +48,9 @@ The CVI is a weighted average of six key risk dimensions. Each factor is normali
 | **10%** | **Environment (NDVI)** | Risk from a lack of protective green spaces (inverted vegetation). |
 | **5%** | **Coastal Proximity** | Risk associated with being near the coast. |
 
-## Data Sources
+**Data Sources**
 
-The analysis is built on datasets provided by [Project CCHAIN](https://www.kaggle.com/datasets/thinkdatasci/project-cchain), which were extracted from a central SQLite database (stand_datasets.db).
+The analysis is built on datasets provided by **Project CCHAIN**, which were extracted from a central SQLite database (stand_datasets.db).
 
 Key data tables included:
 
@@ -64,7 +62,7 @@ Key data tables included:
 - CLIMATE_STANDARDIZED (Average NDVI)
 - BRGY_STANDARDIZED (Distance to coast)
 
-## Real-World Applications
+**Real-World Applications**
 
 This index is a decision-support tool for:
 
@@ -80,14 +78,9 @@ This Iloilo pilot serves as a powerful blueprint. The next steps are to:
 - **Go Smarter (Better Model):** Create an interactive "what-if" scenario tool or web application where planners can adjust the weights of the index based on their specific policy priorities.
 - **Go Wider (Better Scope):** Use this successful pilot as a template to scale the Urban Risk Index to other vulnerable Philippine cities.
 
-## Team Bernoulli
+**Team Bernoulli**
 
-**Kent Ryan Baluyot**
-
-**John Gabriel Cruz**
-
-**Jeb Jovero**
-
-**Dominic Lumibao**
-
-
+- Kent Ryan Baluyot
+- John Gabriel Cruz
+- Jeb Jovero
+- Dominic Lumibao
