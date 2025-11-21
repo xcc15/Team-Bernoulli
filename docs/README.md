@@ -4,19 +4,19 @@ An interactive web-based table viewer for amenity distance data. Displays distan
 
 ## Features
 
-✨ **Interactive Table**
+ **Interactive Table**
 - Sort columns by clicking headers
 - Search/filter data across all columns
 - Pagination with adjustable rows per page
 - Responsive design for mobile devices
 
-📊 **Data Analytics**
+ **Data Analytics**
 - Display total number of locations
 - Show data date range
 - Color-coded distance indicators
 - Real-time filtering
 
-📥 **Export Functionality**
+ **Export Functionality**
 - Download filtered data as CSV
 - Reset filters with one click
 
