@@ -4,7 +4,11 @@ View the ArcGIS project here:
 
 [Open the ArcGIS Story Map](https://arcg.is/0y8XrL)
 
+View the Amenities Dashboard:
+[Open the Amenities Dashboard](https://xcc15.github.io/Team-Bernoulli)
+
 Click the link above to open the story map in your browser.
+
 **Climate Vulnerability Index for Iloilo City (Barangay Level)**
 
 **A data-driven pipeline to calculate a granular Climate Vulnerability Index (CVI) for every barangay in Iloilo City, identifying communities most vulnerable to climate and socioeconomic pressures.**
@@ -83,4 +87,5 @@ This Iloilo pilot serves as a powerful blueprint. The next steps are to:
 - Kent Ryan Baluyot
 - John Gabriel Cruz
 - Jeb Jovero
+
 - Dominic Lumibao
