@@ -1,23 +1,13 @@
-# Requirements generated from imports found in the repository's notebooks
-# Only top-level third-party packages are listed. Standard-library modules
-# (e.g. os, sqlite3) are omitted.
-
-jupyterlab
+streamlit
 pandas
-numpy
-scikit-learn
-matplotlib
 geopandas
+folium
+streamlit-folium
+plotly
+numpy
 shapely
-
-# Optional / recommended geospatial helpers (not directly imported but
-# commonly required by geopandas for file I/O on many platforms):
 fiona
 pyproj
-
-# Notes:
-# - On Windows it's recommended to install geopandas and fiona via conda
-#   to avoid compilation issues, e.g.:
-#     conda create -n klimata python=3.10 geopandas fiona -c conda-forge
-# - After verifying the environment, pin versions with:
-#     pip freeze > requirements.txt
+rtree
+streamlit-option-menu
+streamlit-extras
