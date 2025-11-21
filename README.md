@@ -5,6 +5,7 @@ View the ArcGIS project here:
 [Open the ArcGIS Story Map](https://arcg.is/0y8XrL)
 
 View the Amenities Dashboard:
+
 [Open the Amenities Dashboard](https://xcc15.github.io/Team-Bernoulli)
 
 Click the link above to open the story map in your browser.
@@ -89,3 +90,4 @@ This Iloilo pilot serves as a powerful blueprint. The next steps are to:
 - Jeb Jovero
 
 - Dominic Lumibao
+
