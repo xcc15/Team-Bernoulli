@@ -1,0 +1,19 @@
+{
+  "name": "amenity-data-viewer",
+  "version": "1.0.0",
+  "description": "Interactive web-based viewer for amenity distance data",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'No build required - static site'"
+  },
+  "keywords": [
+    "amenity",
+    "data",
+    "interactive",
+    "table",
+    "github-pages"
+  ],
+  "author": "Team Bernoulli",
+  "license": "MIT"
+}
